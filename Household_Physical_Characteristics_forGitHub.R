@@ -17,9 +17,11 @@ library(lubridate)
 library(readxl)
 library(curl)
 
-###### Establish API Key ######
+###### Establish API Key. Please Register for the Census API at https://www.census.gov/data/developers/guidance/api-user-guide.html ######
 
-key <- "7daf30528db184990525571555e0c190f8c87a19"
+## Fill in your API Key Below ##
+
+#key <- 
 
 ###### Load Necessary Indices ######
 
