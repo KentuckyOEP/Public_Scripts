@@ -119,7 +119,7 @@ HouseholdPhysicalCharacteristics <- HouseholdPhysicalChar %>%
   
   select(year, State, county, statecode, starts_with("YrBuilt"), starts_with("Heating"), starts_with("OccHU"))
 
-#write.csv(HouseholdPhysicalCharacteristics, "C:/Database_Administration/Data_Warehouse/Housing/County/Annual/PhysicalCharacteristicsByCounty.csv")
+#write.csv(HouseholdPhysicalCharacteristics, )
 
 
 
